@@ -1,0 +1,36 @@
+body {
+    background: url("https://img.freepik.com/vector-premium/pixel-art-cielo-horizonte-nubes-8-bits-paisaje-nubes-videojuegos-retro-fondo-nublado_102902-1438.jpg");
+    background-size: 360px;
+}
+
+h1 {
+    background: #fff;
+    border-radius: 10px;
+    border: 3px solid black;
+    display: flex;
+    justify-content: center;
+    min-width: 250px;
+}
+
+.container {
+    background: #fff;
+    border: 3px solid black;
+    height: 200px;
+    max-width: 500px;
+    min-width: 253px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.hijo-cont {
+    text-align: center;
+}
+
+input {
+    margin-top: 8px;
+}
+
+.hijo-cont button {
+    margin-top: 8px;
+}
